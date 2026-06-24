@@ -193,17 +193,4 @@ These are intentionally vulnerable sites for learning:
 - [ ] Email alerts for critical findings
 - [ ] Scheduled/recurring scans
 - [ ] CVSS score per finding
-
-## Key Concepts (for Viva)
-
-**XSS (Cross-Site Scripting):** Attacker injects JavaScript into a page that runs in other users' browsers. Detected by checking if user input reflects back unsanitized.
-
-**SQL Injection:** Attacker manipulates SQL queries by injecting SQL syntax into input fields. Detected by triggering database errors.
-
-**CVSS:** Common Vulnerability Scoring System — industry standard 0–10 scale for severity (Critical 9–10, High 7–8.9, Medium 4–6.9, Low 0–3.9).
-
-**OWASP Top 10:** The ten most critical web application security risks published by OWASP. This project covers: Injection (A03), Security Misconfiguration (A05), and Vulnerable/Outdated Components (A06).
-
-## License
-
-MIT License — free to use and modify for educational purposes.
+.
